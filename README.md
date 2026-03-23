@@ -1,2 +1,1 @@
-# rebekkahaley.github.io
-Static webpage
+# My static webpage
